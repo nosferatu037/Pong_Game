@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>ball.h</itemPath>
+      <itemPath>blocks.h</itemPath>
+      <itemPath>character.h</itemPath>
+      <itemPath>drawEngine.h</itemPath>
+      <itemPath>fitrange.h</itemPath>
+      <itemPath>game.h</itemPath>
+      <itemPath>kbhit.h</itemPath>
+      <itemPath>level.h</itemPath>
+      <itemPath>pongplayer.h</itemPath>
+      <itemPath>sprite.h</itemPath>
+      <itemPath>timeGetTime.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>ball.cpp</itemPath>
+      <itemPath>blocks.cpp</itemPath>
+      <itemPath>character.cpp</itemPath>
+      <itemPath>drawEngine.cpp</itemPath>
+      <itemPath>game.cpp</itemPath>
+      <itemPath>kbhit.cpp</itemPath>
+      <itemPath>level.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>pongplayer.cpp</itemPath>
+      <itemPath>sprite.cpp</itemPath>
+      <itemPath>timeGetTime.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerOptionItem>-lncurses</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="ball.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ball.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="blocks.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="blocks.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="drawEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="drawEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fitrange.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="kbhit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="kbhit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="level.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="level.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pongplayer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pongplayer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="sprite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sprite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="timeGetTime.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="timeGetTime.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="ball.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ball.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="blocks.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="blocks.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="character.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="character.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="drawEngine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="drawEngine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fitrange.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="game.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="game.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="kbhit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="kbhit.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="level.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="level.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pongplayer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="pongplayer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="sprite.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="sprite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="timeGetTime.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="timeGetTime.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

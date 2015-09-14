@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="3dBuzz_EvilMonkeys">
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/character.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/drawEngine.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/character.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/level.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/level.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/ball.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/game.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/sprite.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/blocks.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/pongplayer.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/blocks.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/ball.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/fitrange.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/main.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/game.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/drawEngine.cpp</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/pongplayer.h</file>
+            <file>file:/home/nosferatu/Programing/Cpp/Pong_Game/sprite.h</file>
+        </group>
+        <group name="3DBuzz_evilMonkeyLevelEditor_wxWidget"/>
+        <group/>
+    </open-files>
+</project-private>
